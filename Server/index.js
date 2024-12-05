@@ -1,6 +1,6 @@
 import express from 'express';
 import Connection from './Database/db.js';
-import  Route  from './Routes/Route.js';
+import  Route  from './Routes/route.js';
 import cors from 'cors';
 import bodyParser from 'body-parser';
 
